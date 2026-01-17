@@ -1,0 +1,15 @@
+target/
+Cargo.lock
+test_snapshots/
+.DS_Store
+**/*.rs.bk
+*.pdb
+.soroban/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+Thumbs.db
+.env
+.env.local
