@@ -1,4 +1,4 @@
-
+Video Explanation (https://drive.google.com/file/d/1z-5PB06MzU4GxiGXjFw59rKCwH78sEOd/view?usp=sharing)
 { Governance Budget Allocator }
 
 A Rust smart contract for managing shared budgets with role-based permissions on Stellar/Soroban.
